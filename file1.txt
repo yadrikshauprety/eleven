@@ -1,11 +1,5 @@
 yad
-<<<<<<< HEAD
-=======
 ri
 u
 p
-<<<<<<< HEAD
->>>>>>> 0dd7515 (fourth)
-=======
 vaibhav
->>>>>>> aa5c8aa (fifth)
